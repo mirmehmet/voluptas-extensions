@@ -1,0 +1,9 @@
+{
+  "id": "mangadex",
+  "name": "MangaDex",
+  "assemblyName": "Voluptas.Source.MangaDex.dll",
+  "version": "1.0.0",
+  "language": "en",
+  "type": "Manga",
+  "iconUrl": "https://mangadex.org/favicon.ico"
+}

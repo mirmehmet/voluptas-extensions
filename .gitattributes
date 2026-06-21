@@ -1,0 +1,2 @@
+*.dll binary
+*.json text eol=lf

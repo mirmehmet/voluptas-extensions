@@ -1,0 +1,10 @@
+{
+  "id": "welovemanga",
+  "name": "WeLoveManga",
+  "assemblyName": "Voluptas.Source.WeLoveManga.dll",
+  "version": "1.0.0",
+  "language": "en",
+  "type": "Manga",
+  "contentType": "manhwa",
+  "iconUrl": "https://welovemanga.one/favicon.ico"
+}

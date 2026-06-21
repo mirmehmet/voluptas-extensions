@@ -1,0 +1,10 @@
+{
+  "id": "mangatown",
+  "name": "MangaTown",
+  "assemblyName": "Voluptas.Source.MangaTown.dll",
+  "version": "1.0.0",
+  "language": "en",
+  "type": "Manga",
+  "contentType": "manga",
+  "iconUrl": "https://www.mangatown.com/favicon.ico"
+}

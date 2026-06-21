@@ -1,0 +1,10 @@
+{
+  "id": "nhentai",
+  "name": "nhentai",
+  "assemblyName": "Voluptas.Source.Nhentai.dll",
+  "version": "1.0.0",
+  "language": "en",
+  "type": "Manga",
+  "contentType": "hentai",
+  "iconUrl": "https://nhentai.net/favicon.ico"
+}

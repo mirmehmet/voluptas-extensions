@@ -1,0 +1,9 @@
+{
+  "id": "comick",
+  "name": "ComicK",
+  "assemblyName": "Voluptas.Source.ComicK.dll",
+  "version": "1.0.0",
+  "language": "multi",
+  "type": "Manga",
+  "iconUrl": "https://comick.io/favicon.ico"
+}

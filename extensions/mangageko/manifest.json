@@ -1,0 +1,10 @@
+{
+  "id": "mangageko",
+  "name": "MangaGeko",
+  "assemblyName": "Voluptas.Source.MangaGeko.dll",
+  "version": "1.1.0",
+  "language": "en",
+  "type": "Manga",
+  "contentType": "manga",
+  "iconUrl": "https://mgeko.com/favicon.ico"
+}
