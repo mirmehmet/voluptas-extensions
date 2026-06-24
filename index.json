@@ -1,25 +1,13 @@
-﻿[
-    {
-        "id":  "clonemanganato",
-        "name":  "ChapManganato",
-        "type":  "Manga",
-        "lang":  "en",
-        "version":  "1.1.0",
-        "iconUrl":  "https://chapmanganato.to/favicon.ico",
-        "dllUrl":  "https://raw.githubusercontent.com/mirmehmet/voluptas-extensions/main/extensions/clonemanganato/Voluptas.Source.CloneManga.dll",
-        "sha256":  "963bc15a26f4d1a42e93ee637d477bc93cb4c1ec1062b96073b913d558a5ddbe",
-        "notes":  null,
-        "contentType":  "manga"
-    },
+[
     {
         "id":  "comick",
         "name":  "ComicK",
         "type":  "Manga",
         "lang":  "multi",
         "version":  "1.0.0",
-        "iconUrl":  "https://comick.io/favicon.ico",
+        "iconUrl":  "https://comickz.co.uk/favicon.ico",
         "dllUrl":  "https://raw.githubusercontent.com/mirmehmet/voluptas-extensions/main/extensions/comick/Voluptas.Source.ComicK.dll",
-        "sha256":  "80e717e84f831477cbde684c871fee727a430093f2ee0013691ab619d82350f8",
+        "sha256":  "69da601b8f44fdd9e6475eb3f35ac64f9b7c127854675bcc30a63abbe41202fe",
         "notes":  null,
         "contentType":  "manga"
     },
@@ -29,9 +17,9 @@
         "type":  "Manga",
         "lang":  "en",
         "version":  "1.0.0",
-        "iconUrl":  "https://klz9.com/favicon.ico",
+        "iconUrl":  "https://old.klz9.com/favicon.ico",
         "dllUrl":  "https://raw.githubusercontent.com/mirmehmet/voluptas-extensions/main/extensions/klz9/Voluptas.Source.Klz9.dll",
-        "sha256":  "53bbe8b36952b26acab246768bd5ce5fff15e55638ff195e2cf2e82cf81f8f95",
+        "sha256":  "5cf1787f7f618417bf20fb0acd23cdf600441c7a210a9c3e25254e6eac2b5aef",
         "notes":  null,
         "contentType":  "manga"
     },
@@ -44,18 +32,6 @@
         "iconUrl":  "https://mangadex.org/favicon.ico",
         "dllUrl":  "https://raw.githubusercontent.com/mirmehmet/voluptas-extensions/main/extensions/mangadex/Voluptas.Source.MangaDex.dll",
         "sha256":  "374d29e2421e54b1db397ee97aaeed8c3d8424e0a9b3972645ca1638a1605aff",
-        "notes":  null,
-        "contentType":  "manga"
-    },
-    {
-        "id":  "mangageko",
-        "name":  "MangaGeko",
-        "type":  "Manga",
-        "lang":  "en",
-        "version":  "1.1.0",
-        "iconUrl":  "https://mgeko.com/favicon.ico",
-        "dllUrl":  "https://raw.githubusercontent.com/mirmehmet/voluptas-extensions/main/extensions/mangageko/Voluptas.Source.MangaGeko.dll",
-        "sha256":  "4251b276582187a0e91ffffa7999cc3812ef2dba9709551137858e93fc51059c",
         "notes":  null,
         "contentType":  "manga"
     },
@@ -94,17 +70,5 @@
         "sha256":  "67ace639a5faf255b63bfdd944d24260f144b123e1d774c404ed20188b552bf8",
         "notes":  null,
         "contentType":  "hentai"
-    },
-    {
-        "id":  "welovemanga",
-        "name":  "WeLoveManga",
-        "type":  "Manga",
-        "lang":  "en",
-        "version":  "1.0.0",
-        "iconUrl":  "https://welovemanga.one/favicon.ico",
-        "dllUrl":  "https://raw.githubusercontent.com/mirmehmet/voluptas-extensions/main/extensions/welovemanga/Voluptas.Source.WeLoveManga.dll",
-        "sha256":  "558e4324cbed1626edc939ad31c1850d9ccfe22913f4734af779ca8409567495",
-        "notes":  null,
-        "contentType":  "manhwa"
     }
 ]
